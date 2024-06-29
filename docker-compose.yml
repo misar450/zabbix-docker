@@ -89,7 +89,7 @@ services:
       - network-zabbix
 
   adminer:
-    image: ${ADMINER_IMAGE:-adminer}
+    image: ${ADMINER_IMAGE:-adminer:4.8.1}
     restart: unless-stopped
     ports:
       - "${ADMINER_PORT:-8081:8080"
