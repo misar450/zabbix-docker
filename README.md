@@ -16,9 +16,9 @@ Este proyecto proporciona una configuración de Docker Compose para desplegar un
 | Servicio               | Versión        |
 |------------------------|-----------------|
 | PostgreSQL             | 16.2            |
-| Zabbix Server          | 7.0.0rc1 / 6.4  |
-| Zabbix Frontend (NGINX)| 7.0.0rc1 / 6.4  |
-| Zabbix Agent           | 7.0.0rc1 / 6.4  |
+| Zabbix Server          | 7.2 / 6.4       |
+| Zabbix Frontend (NGINX)| 7.2 / 6.4       |
+| Zabbix Agent           | 7.2 / 6.4       |
 | Grafana                | 10.3.5          |
 | Adminer                | 4.8.1           |
 
