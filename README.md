@@ -64,7 +64,7 @@ Configure el host de Zabbix Server utilizando el nombre DNS para zabbix-agent:
 ![Configuración Zabbix Agent](./.images/zabbix-agent-settings.png)
 
 ### Fuente de datos en Grafana
-1. Vaya a `Grafana -> Connections -> Data sources -> Zabbix`
+1. Vaya a `Grafana -> Connections -> Data sources -> zabbix`
 2. Haga clic en "Test" para verificar la conexión:
 
 ![Prueba de fuente de datos](./.images/data-source-test.png)
